@@ -20,7 +20,9 @@
     left: 4px;
 }
 
-
+#srodek {
+  text-align: center;
+}
 
 body {
     background-color: rgb(37, 180, 236);
