@@ -20,7 +20,14 @@
     left: 4px;
 }
 
+#searchbar {
+    position: absolute;
+    right: 10px;
+}
 
+#srodek {
+    text-align: center;
+}
 
 body {
     background-color: rgb(37, 180, 236);
