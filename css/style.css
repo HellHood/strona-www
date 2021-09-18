@@ -42,6 +42,7 @@ body {
   position: absolute;
   left: 30px;
   text-align: left;
+  
 }
 
 footer {
@@ -64,4 +65,11 @@ footer {
 
 ul {
   list-style: none;
+}
+
+#lista_rzeczy {
+  margin: 15px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
 }
