@@ -22,6 +22,7 @@
     position: absolute;
     top: 10px;
     left: 4px;
+
 }
 
 #srodek {
@@ -42,7 +43,6 @@ body {
   position: absolute;
   left: 30px;
   text-align: left;
-  
 }
 
 footer {
@@ -65,11 +65,4 @@ footer {
 
 ul {
   list-style: none;
-}
-
-#lista_rzeczy {
-  margin: 15px;
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
 }
