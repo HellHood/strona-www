@@ -40,9 +40,10 @@ body {
 
 #about {
   color: white;
-  position: absolute;
-  left: 30px;
-  text-align: left;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
 }
 
 footer {
@@ -65,4 +66,5 @@ footer {
 
 ul {
   list-style: none;
+
 }
