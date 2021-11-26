@@ -1,0 +1,26 @@
+
+
+.item {
+    margin: 50px;
+    padding: 20px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+
+}
+
+.obraz {
+}
+
+.opis {
+    
+}
+
+.przycisk {
+    position: relative;
+    bottom: 50px;
+    left: 20px;
+}
