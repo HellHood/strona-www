@@ -1,0 +1,142 @@
+body
+{
+	margin: 0;
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+.conteiner
+{
+
+}
+header
+{
+    width: 1000px;
+    line-height: 200%;
+    color:white;
+    text-align: center;
+    letter-spacing: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav
+{
+    background-color: #3E1C33;
+    min-width: 100%;
+    text-align: center;
+}
+nav ul
+{
+
+}
+.logowanie
+{
+    display: flex;
+    justify-content: flex-end;
+    height: 35px;
+    margin-right: 20px;
+}
+
+nav ul li
+{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    transition: all 0.4s ease-in-out;
+}
+nav ul li:hover
+{
+    background-color: #4F2D44;  
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+.galeria
+{
+    background-color: #602749;
+    display: block;
+    width: 100%;
+    height: 298px;
+}
+.photo
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1311px;
+}
+
+.photo1
+{
+	width: 417px;
+	height: 278px;
+    float: left;
+    position: relative;
+    padding: 10px;
+}
+.cover
+{
+    transition: all 0.5s ease-in-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 417px;
+	height: 278px;
+    background-color: #B14623;
+    opacity: 0;
+    margin: 10px;
+    font-size: 150px;
+    text-align: center;
+}
+.cover:hover
+{
+    opacity: 0.8;
+}
+article
+{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0A837F;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: left;
+}
+aside
+{
+    padding: 10px;
+    margin: 10px;
+    width: 217px;
+    float:left;
+    background-color: #076461;
+    height: 655px;
+}
+.pojemnik
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1311px;
+}
+footer
+{
+    clear: both;
+    width: 100%;
+    background-color: #0D192B;
+    text-align: center;
+    font-size: 35px;
+}
+footer a
+{
+    padding: 10px;
+    display: inline-block;
+    transition: all 0.4s ease-in-out;
+}
+footer a:hover
+{
+    background-color: #09C184;
+    transform: rotate(15deg);
+}
