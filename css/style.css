@@ -1,0 +1,215 @@
+* {
+  margin: 0;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+.abc {
+  display: inline-block;
+  width: 100%;
+}
+
+#menu {
+  text-indent: 40;
+  font-size: 150%;
+  position: relative;
+  float: left;
+  top: 5px;
+}
+
+#Tytul {
+    float: left;
+    margin-left: 80px;
+}
+
+#konto {
+  text-indent: 40;
+  font-size: 150%;
+  position: relative;
+  margin-right: 60px;
+  float: right;
+}
+
+#searchbar {
+  float: right;
+  margin-right: 40px;
+  top: 5px;
+  position: relative;
+
+}
+
+input[type=text] {
+  height: 20px;
+  width: 300px;
+}
+
+#login {
+    text-indent: 40;
+    font-size: 150%;
+    position: relative;
+    margin-right: 20px;
+    float: right;
+}
+
+#koszyk {
+  text-indent: 40;
+  font-size: 150%;
+  position: relative;
+  margin-right: 20px;
+  float: right;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+#about {
+  color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+footer {
+  display: inline-block;
+  background-color: black;
+  bottom: 0;
+  width: 100%;
+  height: 70px;
+  left: 0px;
+}
+
+#wszystko {
+  list-style: none;
+  display: flex;
+  flex-direction: row; 
+  margin: 10px;
+  justify-content: center;
+  left: 50%;
+}
+
+ul {
+  list-style: none;
+
+}
+
+#rzeczy_sprzedarz {
+  border: 1px;
+  margin-left: 150px;
+  margin-right: auto;
+  background-color: greenyellow;
+}
+
+#lista_rzeczy { 
+  float: left;
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: space-between;
+  width: 900px;
+}
+
+ol{
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  background-color:rgb(177, 177, 177);
+  font-size:18px;
+  height:2em;
+  line-height:2em;
+  text-align:center; background-color:rgb(177, 177, 177);
+  max-width: max-content;
+}
+
+ol a{
+  display:block;
+  text-decoration:none;
+  color:rgb(0, 0, 0);
+  padding:0 5px;
+}
+
+ol > li{
+  float:left;
+  width: 230px;;
+  margin-left:1px;
+  background-color:rgb(224, 224, 224);
+  height:2em;
+}
+
+ol > li:first-child{
+  margin-left:0;
+}
+
+ol > li:hover{
+  background-color:rgb(224, 224, 224);
+}
+
+ol > li:hover > a{
+  color:rgb(177, 17, 17);
+}
+
+ol > li:hover > ul{
+  display:block;
+}
+
+ol > li > ul{
+  display:none;
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+
+ol > li > ul > li{
+  position:relative;
+  background-color:rgb(224, 224, 224);
+}
+
+ol > li > ul > li > a{
+  border-top:1px solid rgb(236, 236, 236);
+}
+
+ol > li > ul > li:hover{
+  background-color:rgba(68, 68, 68, 0.329);
+}
+
+ol > li > ul > li:hover > a{
+  color:rgb(0, 205, 154);
+}
+
+aside {
+  padding: 10px;
+  margin: 10px;
+  width: 217px;
+  float: right;
+  background-color: #747474;
+  height: 655px;
+  position: static;
+}
+
+.przedmiot {
+  margin-top: 10px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: rgb(99, 0, 0);
+  cursor: pointer;
+  padding: 15px;
+  font-weight: bold;
+}
+

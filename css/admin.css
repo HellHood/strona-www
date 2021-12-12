@@ -1,0 +1,20 @@
+* {
+    list-style: none;
+}
+
+body {
+    background-color: grey;
+}
+
+nav {
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 100;
+}
+
+#bok {
+    width: 200px;
+    height: 100%;
+}
