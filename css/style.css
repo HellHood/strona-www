@@ -67,24 +67,14 @@ input[type=text] {
   float: right;
 }
 
-<<<<<<< HEAD
-#searchbar {
-    position: absolute;
-    right: 10px;
-=======
 body {
     background-color: rgb(255, 255, 255);
->>>>>>> origin/Szymek
 }
 
 #srodek {
     text-align: center;
 }
 
-<<<<<<< HEAD
-body {
-    background-color: rgb(37, 180, 236);
-}
 
 /* Add a black background color to the top navigation bar */
 .topnav {
@@ -139,7 +129,6 @@ body {
       border: 1px solid #ccc;
     }
   }
-=======
 #about {
   color: white;
   display: flex;
@@ -193,11 +182,10 @@ ol{
   list-style-type:none;
   padding:0;
   margin:0;
-  background-color:rgb(177, 177, 177);
   font-size:18px;
   height:2em;
   line-height:2em;
-  text-align:center; background-color:rgb(177, 177, 177);
+  text-align:center;
   max-width: max-content;
 }
 
@@ -286,4 +274,3 @@ aside {
   font-weight: bold;
 }
 
->>>>>>> origin/Szymek
