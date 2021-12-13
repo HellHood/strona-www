@@ -1,0 +1,53 @@
+
+
+.item {
+    width: auto;
+    height: 700px;
+    margin: 50px;
+    padding: 20px;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+}
+
+.obraz {
+    float: left;
+    margin-left: 100px;
+}
+
+.opis {
+    float: left;
+    margin-left: 15px;
+}
+
+
+.polecane {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 75%;
+}
+
+.dodaj-koszyk {
+    width: 400px;
+    height: 50px;
+    background-color: rgb(28, 181, 241);
+    bottom: 50px;
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+}
+
+.podst_inf {
+    height: 700px;
+    width: auto;
+}
+
+p {
+    position: relative;
+    
+}
