@@ -43,7 +43,10 @@ a:link, a:visited, a:hover, a:active {
   margin-right: 40px;
   top: 5px;
   position: relative;
-
+  border-radius: 10px;
+  outline: none !important;
+  border-width: 3px;
+  box-shadow: 0 0 10px gray;
 }
 
 input[type=text] {
@@ -65,6 +68,7 @@ input[type=text] {
   position: relative;
   margin-right: 20px;
   float: right;
+  vertical-align: middle;
 }
 
 body {
@@ -164,7 +168,6 @@ ul {
   border: 1px;
   margin-left: auto;
   margin-right: auto;
-  background-color: greenyellow;
 }
 
 #lista_rzeczy { 
@@ -181,11 +184,11 @@ ul {
 ol{
   list-style-type:none;
   padding:0;
-  margin:0;
+  margin: auto;
   font-size:18px;
   height:2em;
   line-height:2em;
-  text-align:center;
+  text-align: center;
   max-width: max-content;
 }
 
@@ -198,7 +201,7 @@ ol a{
 
 ol > li{
   float:left;
-  width: 230px;;
+  width: auto;
   margin-left:1px;
   background-color:rgb(224, 224, 224);
   height:2em;
@@ -248,14 +251,19 @@ aside {
   padding: 10px;
   margin: 10px;
   width: 217px;
-  float: right;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
   background-color: #747474;
   height: 655px;
-  position: static;
+  position: sticky;
 }
 
 .przedmiot {
   margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: center;
 }
 
 #myBtn {
@@ -274,3 +282,17 @@ aside {
   font-weight: bold;
 }
 
+.container {
+  display: flex;
+  flex: auto;
+  flex-wrap: nowrap;
+}
+
+h1 {
+  text-align: center;
+}
+
+header {
+  line-height: auto;
+  vertical-align: middle;
+}
