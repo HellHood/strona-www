@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regulamin</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<?php include 'elementy/gora.php' ; ?>
+<br>
+<br>
+<br>
+    I. POSTANOWIENIA OGÓLNE
+<br><br><br>
+Sklep internetowy działający pod adresami: www.nyggaware.pl
+<br><br>
+II. DEFINICJE
+<br><br><br>
+Regulamin - niniejszy regulamin, określający zasady zawierania umów sprzedaży na odległość za pośrednictwem Sklepu internetowego, zasady wykonywania tych umów, prawa i obowiązki stron umowy sprzedaży na odległość oraz zasady postępowania reklamacyjnego. W zakresie usług świadczonych drogą elektroniczną Regulamin i jego załączniki jest odpowiednio regulaminem, o którym mowa w art. 8 Ustawy o świadczeniu usług drogą elektroniczną. Wszystkie załączniki stanowią integralną część Regulaminu, o ile wprost nie wskazano inaczej.
+Klient - osoba fizyczna posiadająca pełną zdolność do czynności prawnych, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, której ustawa przyznaje zdolność prawną, która zawiera ze Sprzedawcą lub Marketplace Sprzedawcą umowę na odległość. Gdy Klientem nie jest osoba fizyczna domniemywa się, że jest on reprezentowany przez przedstawiciela, upoważnionego do reprezentowania Klienta w świetle obowiązującego prawa.
+Konsument - konsument w rozumieniu Art. 22 z indeksem 1 Kodeksu Cywilnego
+Przedsiębiorca indywidulany - osoba fizyczna zawierająca umowę bezpośrednio związaną z jej działalnością gospodarczą, gdy z treści tej umowy wynika, że nie posiada ona dla tej osoby charakteru zawodowego, wynikającego w szczególności z przedmiotu wykonywanej przez nią działalności gospodarczej, udostępnionego na podstawie przepisów o Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+Sklep internetowy - serwis internetowy prowadzony przez Sprzedawcę, dostępny pod adresami elektronicznymi: www.morele.net, www.amfora.pl, www.hulahop.pl, www.pupilo.pl, www.trenujesz.pl, www.motoria.pl, www.digitalo.pl, www.ubieramy.pl, www.meblujesz.pl, www.sklep-presto.pl,www.budujesz.pl za pośrednictwem którego Klient może uzyskać informacje o Produkcie i jego dostępności oraz kupić Towar, lub zlecić świadczenie usługi.
+Umowa sprzedaży na odległość - umowa sprzedaży Towaru/świadczenia usług/dostarczania treści cyfrowych (o ile ma zastosowanie) zawierana za pośrednictwem Sklepu Internetowego.
+Towar/Produkt - rzecz ruchoma, którą Klient może nabyć w Sklepie internetowym. Wszystkie towary oferowane w Sklepie internetowym są fabrycznie nowe, wolne od wad fizycznych oraz prawnych. Wszystkie towary zostały wprowadzone do obrotu na rynek Polski legalnie. W wyjątkowych przypadkach, gdy jest to wyraźnie oznaczone w nazwie i opisie produktu, mogą być oferowane towary używane bądź serwisowane.
+Ceny - wszystkie ceny podane na stronach internetowych Sprzedawcy są podawane w polskich złotych (PLN), są cenami brutto (tj. zawierają wszelkie składniki jak cła i podatki, w tym podatek VAT) oraz uwzględniają rabat przy płatności gotówką lub przelewem. Ceną wiążącą dla stron jest cena, po której Klient zamówił towar w zamówieniu. Podane ceny towarów nie zawierają kosztu dostawy, który zależy od sposobu jej realizacji. W przypadku gdy płatność nie jest realizowana gotówką lub przelewem naliczana jest dodatkowa opłata w wysokości podanej przed złożeniem zamówienia.
+EKP Morele - Elektroniczna Karta Podarunkowa Morele generowana przez Sprzedawcę w formie elektronicznego bonu wartościowego na okaziciela (mająca postać ciągu znaków alfanumerycznych), o określonej dacie ważności. EKP Morele umożliwia dokonanie operacji polegającej na wymianie EKP Morele na Towar lub Towary w Sklepie internetowym do wartości nominału karty. EKP Morele nie jest kartą płatniczą, nie jest instrumentem pieniądza elektronicznego w rozumieniu obowiązujących przepisów prawa.      
+Sprzedawca - MORELE.NET Sp. z o.o. z siedzibą w Krakowie przy al. Jana Pawła II 43b, 31-864 Kraków, wpisana do Rejestru Przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd Rejonowy dla Krakowa Śródmieścia w Krakowie, Wydział XI Gospodarczy pod numerem KRS: 0000390511, numer NIP: 9451972201, REGON: 356567685, kapitał zakładowy: 919 200,00 złotych.
+Marketplace Sprzedawca - sprzedawca inny niż Morele.net sp. z o.o., oferujący do sprzedaży produkty w ramach usługi Marketplace. Wyłącznie Marketplace Sprzedawca, z którym Klient zawrze umowę na odległość, odpowiedzialny jest w szczególności za jakość zbywanego produktu, wystawienie dokumentu potwierdzającego sprzedaż oraz obsługę posprzedażną.
+Treści - wszelkie pochodzące od Sprzedawcy lub jego partnerów informacje, dane, elementy, materiały, algorytmy, schematy, utwory, oznaczenia, logo, nazwy, znaki, symbole, opisy i zdjęcia Towarów, niezależnie od ich charakteru, formatu i sposobu zapisu lub przedstawienia.
+Konto - zbiór danych przechowywanych w Sklepie internetowym oraz w systemie teleinformatycznym Sprzedawcy dotyczący danego Klienta oraz składanych przez niego zamówień i zawieranych umów, z wykorzystaniem którego Klient może składać zamówienia oraz zawierać umowy.
+Polityka prywatności i cookies Sklepu internetowego Morele.net Sp. z o.o. - dokument określający szczegółowe zasady przetwarzania danych osobowych oraz stosowania cookies. Polityka prywatności i cookies stanowi załącznik nr 1 do Regulaminu i jest dostępna na stronach Sprzedawcy w formacie „pdf”.
+Newsletter - informacje, w tym informacje handlowe w rozumieniu ustawy z dnia 18 lipca 2002r. o świadczeniu usług drogą elektroniczną (t.j. Dz.U.2013.1422 z późn. zm.) pochodzące od Sprzedawcy wysyłane Klientowi drogą elektroniczną, przez lub w imieniu Sprzedawcy.
+Usługa Sprzedawcy - usługa wykonywana przez Sprzedawcę lub podwykonawcę: (np.: Dostawa Towaru, Ubezpieczenie, Gwarancja, Usługi Dodane, Montaż, Instalacja, Wniesienie itp.).
+Elektroniczne oświadczenie o odstąpieniu od umowy - stworzona przez sprzedawcę forma elektroniczna oświadczenia o odstąpieniu od umowy zawartej na odległość widoczna w panelu klienta.
+Zakupy Bez Rejestracji - dodatkowa usługa stworzona przez Sprzedawcę dla Klienta umożliwiająca dokonanie zakupu produktów z asortymentu Sprzedawcy bez konieczności rejestracji w sklepie internetowym Sprzedawcy.
+Faktura Korygująca – dokument wystawiany w przypadku, gdy po wystawieniu faktury i wykonaniu umowy, doszło do zmiany kwoty należnej i kwoty podatku (np. w związku z odstąpieniem przez Klienta od umowy).
+Rodzaje i zakres usług świadczonych drogą elektroniczną:
+zawieranie umów sprzedaży online – w zakresie towarów sprzedawanych w Sklepie Internetowym, w tym licencji elektronicznych,
+prowadzenie Konta klienta,
+przesyłanie wiadomości e- mail,
+newsletter – zapisanie się do listy odbiorców jest dobrowolne,
+dodawanie opinii, komentarzy i ocen – kupujący może dodać opinię lub komentarz do swojej transakcji,
+przesyłanie wiadomości e-mail, w których Sprzedawca potwierdza otrzymanie zamówienia, ewentualne otrzymanie płatności, przyjęcie zamówienia do realizacji, przebieg
+realizacji zamówienia, przebieg realizacji reklamacji i zwraca się o wystawienie opinii, komentarzy i ocen
+<br><br><br><br>
+III. PODATKOWA DOKUMENTACJA ZAKUPÓW    
+<br><br><br>
+Transakcje sprzedaży towarów lub usług dokumentowane są paragonami fiskalnymi oraz (lub) fakturami VAT. Jeśli kupujący będący osobą fizyczną nie prowadzącą działalności gospodarczej, dokonując zakupu towaru w Sklepie internetowym wyraża wolę otrzymania faktury VAT, w tej sytuacji Klient otrzymuje wyłącznie fakturę VAT.
+Zgodnie z przepisami ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (tekst jednolity: Dz. U. 2020.106), Kupujący akceptuje wystawianie i przesyłanie faktur (w tym faktur korygujących) w formie elektronicznej. Zgoda na stosowanie faktur elektronicznych jest równoznaczna z rezygnacją otrzymywania ich w formie papierowej. Klient może cofnąć zgodę na stosowanie faktur elektronicznych, przez odznaczenie zgody w profilu Klienta po zalogowaniu na stronach Sklepu internetowego lub przez kontakt z Biurem Obsługi Klienta Sprzedawcy.
+Po otrzymaniu Towaru przez Sprzedawcę, w wypadku odstąpienia od Umowy sprzedaży na odległość przez Konsumenta lub Przedsiębiorcę indywidualnego oraz w przypadku zwrotu środków w związku z uznaną reklamacją, na adres mailowy Klienta zostanie wysłana faktura korygująca.
+W przypadku gdy faktura korygująca wystawiona jest na skutek obniżenia ceny przez Sprzedawcę, oraz braku sprzeciwu zgłoszonego przez Klienta w dniu otrzymania tej faktury korygującej, Sprzedawca uznaje że obniżenie ceny zostało uzgodnione z Klientem w tym dniu (dniu otrzymania faktury).
+<br><br>
+IV. KONTO
+<br><br><br>
+Klient nie może umieszczać w Sklepie internetowym ani dostarczać do Sprzedawcy treści, w tym opinii i innych danych o charakterze bezprawnym.     
+Klient uzyskuje dostęp do Konta po rejestracji.
+W ramach rejestracji Klient podaje imię, nazwisko i adres e-mail oraz wybiera hasło. Klient może też podać numer swojego telefonu komórkowego. Podanie tego numeru jest warunkiem koniecznym świadczenia usług dodanych przez Sprzedawcę, o których mowa w pkt. XIV Regulaminu. Klient zapewnia, że dane podane przez niego w formularzu rejestracyjnym, są zgodne z prawdą. Rejestracja wymaga dokładnego zapoznania się z Regulaminem oraz zaznaczenia na formularzu rejestracyjnym, że Klient zapoznał się z Regulaminem i w pełni akceptuje wszystkie jego postanowienia.
+W chwili umożliwienia Klientowi dostępu do Konta, pomiędzy Sprzedawcą a Klientem zostaje, na czas nieoznaczony, zawarta umowa o świadczenie usług drogą elektroniczną dotycząca Konta. Konsumenta lub Przedsiębiorcę indywidualnego może od tej umowy odstąpić na zasadach określonych Regulaminie.
+Zamieszczone na stronach Sklepu internetowego treści, w tym opisy towarów i ceny stanowią zaproszenie do zawarcia umowy w rozumieniu art. 71 kodeksu cywilnego.
+W celu złożenia oferty nabycia towaru Klient powinien złożyć zamówienie. Zamówienie składa się poprzez wypełnienie stosownego formularza znajdującego się na stronach Sklepu internetowego i kliknięcie przycisku oznaczonego: „Zamawiam i płacę”.
+W celu złożenia zamówienia klient powinien posiadać konto lub wybrać opcję zakupu bez rejestracji.
+Do dokonania zakupu bez rejestracji konieczne jest :
+Zaakceptowanie Regulaminu sklepu internetowego
+Podanie danych niezbędnych do realizacji zamówienia (tj.  adres email, numer telefonu, adres do wysyłki towaru, imię i nazwisko lub numeru NIP w przypadku zakupu towaru przez przedsiębiorcę).
+Klient zapewnia, że dane podane przez niego w formularzu do złożenia zamówienia są zgodne z prawdą. Złożenie zamówienia wymaga dokładnego zapoznania się z regulaminem oraz zaznaczenie w formularzu do złożenia zamówienia, że zapoznał się z jego treścią i w pełni akceptuje jego postanowienia.
+Rejestracja Konta na jednej ze stron Sklepu internetowego oznacza równocześnie rejestrację umożliwiającą dostęp do pozostałych stron, pod którymi dostępny jest Sklep internetowy.
+<br><br>
+ V. ZAMÓWIENIA
+<br><br><br>
+Klient składa zamówienie poprzez interaktywny formularz dostępny na jednej ze stron Sklepu internetowego. Zamówienie określa m.in. jakie towary, po jakiej cenie i w jakich ilościach Klient chce zamówić do wskazanej przez siebie lokalizacji.
+Po prawidłowym złożeniu zamówienia przez Klienta, Sprzedawca wysyła na adres e-mail Klienta informację o złożonym zamówieniu. Ta informacja nie jest potwierdzeniem przyjęcia oferty Klienta. Jest ona jedynie informacją, że Sprzedawca zamówienie otrzymał.
+Następnie Sprzedawca weryfikuje, czy zamówienie może zostać przyjęte do realizacji.
+Jeżeli Sprzedawca przyjmuje zamówienie Klienta, przesyła mu informację drogą elektroniczną  o zatwierdzeniu zamówienia do realizacji. Z chwilą otrzymania takiego oświadczenia przez Klienta pomiędzy stronami zostaje zawarta Umowa sprzedaży na odległość.   
+Jeżeli Klient jest Konsumentem, Sprzedawca, nie później niż do czasu dostawy towaru, potwierdzi mu zawarcie oraz ustalone warunki Umowy sprzedaży na odległość na trwałym nośniku.
+Zamówienie w Sklepie internetowym Sprzedawcy można złożyć w następujący sposób:
+za pomocą systemu informatycznego (stron internetowych) Sklepu internetowego
+telefonicznie pod numerem telefonu działu handlowego, właściwym dla danego Sklepu Internetowego. Takie zamówienie musi zawierać imię i nazwisko zamawiającego, jego adres pocztowy oraz adres e-mail, numer NIP (dotyczy wyłącznie nabywających towar podmiotów gospodarczych i służy wystawieniu poprawnej faktury VAT), adres dostawy, numer telefonu oraz nazwy, ilości i ceny zamówionych towarów.
+<br><br><br><br>
+ VI. CENY I SPOSOBY PŁATNOŚCI
+<br><br><br>
+Sprzedawca, najpóźniej bezpośrednio przed złożeniem zamówienia, informuje Klienta o łącznej cenie towaru oraz wszelkich dodatkowych opłatach, w tym za transport, dodatkowe usługi, koszty płatności itp.
+Na początku składania zamówienia Sprzedawca informuje Klienta o dostępnych sposobach płatności.
+Jeżeli z danym sposobem płatności wiąże się dla Klienta dodatkowy koszt, Sprzedawca informuje o tym Klienta najpóźniej bezpośrednio przed złożeniem przez Klienta zamówienia.
+O terminie płatności Sprzedawca informuje Klienta za pośrednictwem systemu teleinformatycznego.
+Szczegółowe zasady korzystania z EKP Morele zostały określone w Regulaminie elektronicznych kart podarunkowych Morele.net znajdującym się na stronach sklepów, w zakładce “Materiały do pobrania”
+<br><br>
+VII. PŁATNOŚCI        
+<br><br><br>
+Płatności za towar można dokonać w sposób wybrany w momencie składania zamówienia. W przypadku zakupów towarów sprowadzanych na zamówienie oraz o znacznej wartości zastrzegamy sobie prawo zażądania zaliczki. W przypadku jednak wypowiedzenia, odstąpienia lub rozwiązania umowy wpłacona zaliczka zostanie Konsumentowi lub Przedsiębiorcy indywidualnemu, zwrócona.     
+Płatność w sklepie internetowym może zostać dokonana w jeden z następujących sposobów:
+gotówką za pobraniem – w wypadku dostawy towaru przez przewoźników,
+przelewem z góry na konto,
+kartą płatniczą – forma płatności obsługiwana przez eCard S.A. oraz Przelewy24,
+przelewem błyskawicznym - forma płatności obsługiwana przez eCard S.A. oraz Przelewy24,
+systemem ratalnym – forma płatności obsługiwana przez Santander Consumer Bank S.A.
+leasing – forma płatności obsługiwana przez LeaseLink Sp. z o. o. oraz GRENKELEASIN Sp. z o.o.
+przelewem elektronicznym - forma płatności obsługiwana przez Sofort GmbH.
+W wypadku niektórych Produktów lub kategorii Produktów, dostępne są jedynie niektóre  ze wskazanych w pkt 2 form płatności. W szczególności niemożliwe jest dokonanie płatności gotówką w kwocie przekraczającej 15.000 PLN.   
+Operatorem płatności „Karta płatnicza” oraz „Przelew błyskawiczny” są platformy:
+eCard, która jest własnością firmy eCard Spółka Akcyjna z siedzibą w Warszawie (00-043 Warszawa), przy ulicy Tadeusza Czackiego 7/9/11, wpisana do rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy dla m.st. Warszawy XVI Wydział Gospodarczy-Rejestrowy KRS pod numerem 0000042304, o kapitale zakładowym wynoszącym 30 259 488,00 złotych w całości opłaconym, nr NIP: 5213103040;
+Przelewy24, która jest własnością firmy PayPro Spółka Akcyjna w Poznaniu (60-327 Poznań), przy ulicy Kanclerskiej 15, wpisana do rejestru przedsiębiorców prowadzonego przez Sąd Rejonowy Poznań-Nowe Miasto i Wilda w Poznaniu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod numerem 0000347935, o kapitale zakładowym wynoszącym 5 476 300,00 zł w całości opłaconym, nr NIP 779-236-98-87.
+W wypadku wyboru płatności kartą płatniczą oraz przelewów błyskawicznych dane karty Klienta nie są zapisywane w Sklepie internetowym. Klient oraz jego karta płatnicza jest identyfikowana za pomocą specjalnego ciągu znaków generowanych przez eCard S.A. lub Przelewy24.
+Operatorem płatności "Przelew elektroniczny" jest Sofort GmbH, dostawca usług płatniczych, który w 2014 r. połączył się z firmą Klarna tworząc w ten sposób Klarna Group. Sofort GmbH posiada swoją siedzibę w Monachium i wpisany jest do rejestru handlowego prowadzonego przez Sąd Rejonowy w Monachium pod numerem HRB 218675.
+<br><br><br><br>
+VIII. DOSTAWA       
+<br><br><br>
+W ten sam sposób Sprzedawca informuje Klienta o koszcie dostawy, o ile ma to zastosowanie.
+Na początku składania zamówienia Klient jest informowany o ograniczeniach dotyczących dostawy Towarów.
+<br><br>
+IX. SPOSÓB REALIZACJI ZAMÓWIENIA (DOSTARCZENIA TOWARU)
+<br><br><br>
+Zamówione towary dostarczane są w sposób wskazany przez Klienta w chwili składania zamówienia:
+Przesyłka wysłana za pośrednictwem firmy kurierskiej (z reguły dociera do klienta na drugi dzień roboczy po dniu nadania paczki. Wszystkie przesyłki wysyłane za pośrednictwem firmy kurierskiej są ubezpieczone - koszty ubezpieczenia ponosi Sprzedawca).
+Odbiór zamówienia w paczkomacie.
+Przesyłka wysłana za pośrednictwem Poczty Polskiej.
+Odbiór zamówienia w placówce Poczty Polskiej.
+Odbiór zamówienia na Stacji Paliw Orlen, paczka w RUCH oraz Żabka/Freshmarket
+Poprzez wiadomość mailowa (w przypadku licencji i kodów) przesłaną przez Sklep internetowy bądź dostawce usługi
+W przypadku, gdy nie dojdzie do odbioru towaru przez Klienta w paczkomacie, placówce Poczty Polskiej, Stacji Paliw Orlen lub od kuriera (co skutkowało będzie zwrotem towaru do Sprzedawcy), Sprzedawca może odstąpić od Umowy Sprzedaży. Odstąpienie od umowy następuje przez złożenie Klientowi oświadczenia woli o odstąpieniu. W takim przypadku zamówienie uważane będzie za anulowane.
+W sytuacji określonej w pkt. 3, Sprzedawca obowiązany jest niezwłocznie zwrócić Klientowi wszystko co otrzymał od niego na mocy Umowy Sprzedaży.
+W wypadku wyboru płatności w formie: Płatność z góry na konto, E-przelew/karta kredytowa- płatność przez Internet Klient obowiązany jest dokonać zapłaty w terminie 24 godzin od daty zawarcia umowy sprzedaży.
+W przypadku, gdy nie dojdzie do dokonania zapłaty przez Klienta w terminie określonym            w pkt. 4, Sprzedawca może odstąpić od Umowy Sprzedaży. Odstąpienie od umowy następuje przez złożenie Klientowi, pocztą elektroniczną na adres elektroniczny podany przez Klienta, oświadczenia woli o odstąpieniu. W takim przypadku umowa sprzedaży będzie uważana za niezawartą, a zamówienie za anulowane. W takich okolicznościach Klient ani Sprzedawca nie będą zobowiązani względem siebie do żadnych świadczeń, w szczególności uiszczenia odszkodowania lub jego surogatu, zwrotu kosztów itp.   
+W przypadku niezrealizowania przez Sprzedawcę zobowiązania w terminie określonym w korespondencji mailowej kierowanej do Konsumenta, Konsument również może odstąpić od Umowy Sprzedaży zawartej na odległość. Odstąpienie od umowy następuje przez złożenie Sprzedawcy oświadczenia woli o odstąpieniu.
+W przypadku zakupu licencji elektronicznych i kodów zastrzegamy sobie prawo do przekazania danych konsumenta do partnera (usługodawcy/licencjodawcy/pośrednika) realizującego wysyłkę zakupionej usługi.
+<br><br><br><br>
+X. ODSTĄPIENIE OD UMOWY
+<br><br><br>
+Prawo odstąpienia od umowy bez podawania przyczyny przysługuje wyłącznie Klientowi będącemu Konsumentem lub Przedsiębiorcą Indywidualnym.
+Konsument lub Przedsiębiorca indywidualny, który zawarł umowę na odległość za pośrednictwem Sklepu internetowego może w terminie 14 dni od niej odstąpić bez podawania przyczyny i ponoszenia kosztów za wyjątkiem kosztów wskazanych poniżej, o ile został o konieczności ich poniesienia prawidłowo poinformowany podczas procesu składania zamówienia. Mogące mieć zastosowanie ustawowe wyjątki od prawa do odstąpienia podane są w punkcie X. ust. 8 poniżej.
+Konsument ma obowiązek zwrócić rzecz Sprzedawcy lub przekazać ją osobie upoważnionej przez Sprzedawcę do odbioru niezwłocznie, jednak nie później niż 14 dni od dnia, w którym odstąpił od umowy, chyba że Sprzedawca zaproponował, że sam odbierze rzecz. Do zachowania terminu wystarczy odesłanie rzeczy przed jego upływem.
+<br><br>
+Adres do zwrotu:
+<br>
+Magazyn Nyggaware.net
+<br>
+Panattoni Park Sosnowiec II
+<br>
+Wiejska 166
+<br>
+41-216 Sosnowiec
+<br><br><br>
+Kupujący ponosi bezpośrednie koszty zwrotu rzeczy w związku z odstąpieniem od umowy.
+Jeżeli Konsument lub Przedsiębiorca indywidualny, złożył oświadczenie o odstąpieniu zanim Sprzedawca przyjął jego ofertę, przestaje ona wiązać.
+Bieg terminu do odstąpienia od umowy sprzedaży rzeczy rozpoczyna się od dnia, w którym Konsument lub Przedsiębiorca indywidualny lub wskazana przez niego osoba inna niż przewoźnik weszła w jej posiadanie (w przypadku sprzedaży wielu rzeczy – w posiadanie ostatniej z nich), a w przypadku pozostałych umów od dnia ich zawarcia.
+W celu wykonania prawa odstąpienia Konsument lub Przedsiębiorca indywidualny, powinien złożyć Sprzedawcy oświadczenie w tym zakresie. Dla zachowania terminu wystarczające jest wysłanie oświadczenia przed jego upływem. Konsument lub Przedsiębiorca indywidualny może złożyć oświadczenie o odstąpieniu od umowy w dowolny sposób. Sprzedawca zaleca skorzystanie z elektronicznego oświadczenia o odstąpieniu od umowy. Oświadczenie złożone w formie elektronicznej jest skuteczne od chwili jego wprowadzenia do systemu przez Kupującego i przesłania go Sprzedawcy.
+Sprzedawca niezwłocznie potwierdzi Klientowi na trwałym nośniku otrzymanie oświadczenia  o odstąpieniu od umowy.      
+W chwili odstąpienia od umowy wygasają powiązane z nią umowy dodatkowe zawarte przez Klienta, jeżeli na ich podstawie świadczenie jest spełniane przez przedsiębiorcę lub osobę trzecią na podstawie porozumienia z przedsiębiorcą.
+Prawo odstąpienia od umowy nie przysługuje Klientowi w odniesieniu do umów wskazanych w art. 38 ustawy o prawach konsumenta, w tym m. in. umów:
+o świadczenie usług, jeżeli Sprzedawca wykonał w pełni usługę za wyraźną zgodą Konsument lub Przedsiębiorca indywidualny, który został poinformowany przed rozpoczęciem świadczenia, że po spełnieniu świadczenia przez Sprzedawcę utraci prawo odstąpienia od umowy;
+których przedmiotem świadczenia jest rzecz nieprefabrykowana, wyprodukowana według specyfikacji Klienta lub służąca zaspokojeniu jego zindywidualizowanych potrzeb;
+których przedmiotem świadczenia jest rzecz dostarczana w zapieczętowanym opakowaniu, której po otwarciu opakowania nie można zwrócić ze względu na ochronę zdrowia lub ze względów higienicznych, jeżeli opakowanie zostało otwarte po dostarczeniu;
+których przedmiotem świadczenia są nagrania dźwiękowe lub wizualne albo programy komputerowe dostarczane w zapieczętowanym opakowaniu, jeżeli opakowanie zostało otwarte po dostarczeniu;
+o dostarczanie treści cyfrowych oraz licencji elektronicznych, które nie są zapisane na nośniku materialnym, jeżeli spełnianie świadczenia rozpoczęło się za wyraźną zgodą Klienta przed upływem terminu do odstąpienia od umowy i po poinformowaniu go przez przedsiębiorcę o utracie prawa odstąpienia od umowy;
+których przedmiotem jest rzecz ulegająca szybkiemu zepsuciu lub mająca krótki termin przydatności do użycia, oraz w której przedmiotem świadczenia są rzeczy, które                                                            po dostarczeniu, ze względu na swój charakter, zostają nierozłącznie połączone  z innymi rzeczami;
+o dostarczanie dzienników, periodyków lub czasopism, z wyjątkiem umowy o prenumeratę;
+zawartej w drodze aukcji publicznej;
+o świadczenie usług w zakresie zakwaterowania, innych niż do celów mieszkalnych, przewozu rzeczy, najmu samochodów, gastronomii, usług związanych z wypoczynkiem, wydarzeniami rozrywkowymi, sportowymi lub kulturalnymi, jeżeli w umowie oznaczono dzień lub okres świadczenia usługi;
+której Konsument lub Przedsiębiorca indywidualny wyraźnie żądał, aby przedsiębiorca do niego przyjechał w celu dokonania pilnej naprawy lub konserwacji; jeżeli przedsiębiorca świadczy dodatkowo inne usługi niż te, których wykonania konsument żądał, lub dostarcza rzeczy inne niż części zamienne niezbędne do wykonania naprawy lub konserwacji, prawo odstąpienia od umowy przysługuje konsumentowi w odniesieniu do dodatkowych usług lub rzeczy;
+w której przedmiotem świadczenia są napoje alkoholowe, których cena została uzgodniona przy zawarciu umowy sprzedaży, a których dostarczenie może nastąpić dopiero po upływie 30 dni i których wartość zależy od wahań na rynku, nad którymi przedsiębiorca nie ma kontroli;
+w której przedmiotem świadczenia są rzeczy, które po dostarczeniu, ze względu na swój charakter, zostają nierozłącznie połączone z innymi rzeczami;
+w której cena lub wynagrodzenie zależy od wahań na rynku finansowym, nad którymi przedsiębiorca nie sprawuje kontroli, i które mogą wystąpić przed upływem terminu do odstąpienia od umowy
+Niezależnie od potwierdzenia Faktury Korygującej nie później niż w terminie 7 dni roboczych od dnia wystawienia Faktury Korygującej Sprzedawca ma obowiązek zwrócić Konsumentowi wszystkie dokonane przez niego płatności, w tym koszty dostawy Produktu (z wyjątkiem dodatkowych kosztów wynikających z wybranego przez Klienta sposobu dostawy innego niż najtańszy zwykły sposób dostawy dostępny w Sklepie Internetowym.
+Sprzedawca dokonuje zwrotu płatności przy użyciu takiego samego sposobu płatności, jakiego użył Konsument lub Przedsiębiorca indywidualny, chyba że wyraźnie zgodził się na inny sposób zwrotu, który nie wiąże się dla niego z żadnymi kosztami.
+Konsument lub Przedsiębiorca indywidualny ponosi odpowiedzialność za zmniejszenie wartości Produktu będące wynikiem korzystania z niego w sposób wykraczający poza konieczny do stwierdzenia charakteru, cech i funkcjonowania produktu. Przekroczenie powyższych granic nie powoduje, że odstąpienie od umowy jest nieskuteczne.
+<br><br>
+XI. REKLAMACJE
+<br><br><br>
+Wszelkie reklamacje dotyczące funkcjonowania Sklepu internetowego, w tym w sprawach dotyczących usług świadczonych drogą elektroniczną oraz umów zawartych za jego pośrednictwem można przesyłać za pośrednictwem formularza reklamacji dostępnego na jego stronach. Reklamacje mogą być również składane pisemnie na adres siedziby Sprzedawcy, oraz drogą telefoniczną.
+Składając reklamację wskazanym jest, aby Klient opisał zauważoną wadę i sprecyzował swoje żądanie. W chwili składania reklamacji z tytułu rękojmi, należy przedstawić dowód zakupu towaru w Sklepie internetowym (np. wyciąg z konta, potwierdzenie płatności kartą, paragon lub fakturę).
+Zalecane jest, aby wysłanie paczki ze zwracanym towarem było poprzedzone zgłoszeniem zwrotu tj. RMA, z poziomu profilu Klienta, po zalogowaniu się na stronie Sklepu internetowego.
+Klient, który wykonuje uprawnienia z tytułu rękojmi, jest obowiązany na koszt Sprzedawcy dostarczyć rzecz wadliwą na adres siedziby Sprzedawcy lub adres wskazany w korespondencji mailowej. Na paczce zawierającej kwestionowany towar zaleca się umieszczenie numeru RMA.
+Jeżeli ze względu na rodzaj rzeczy lub sposób jej zamontowania dostarczenie rzeczy przez Klienta byłoby nadmiernie utrudnione, Klient obowiązany jest udostępnić rzecz Sprzedawcy w miejscu, w którym rzecz się znajduje .
+Jeżeli podane w reklamacji dane lub informacje wymagają uzupełnienia, Sprzedawca niezwłocznie zwróci się do Klienta o ich uzupełnienie we wskazanym zakresie. Wraz z takim zawiadomieniem do Klienta przesłana zostanie informacja, w jaki sposób należy uzupełnić braki w zgłoszeniu reklamacyjnym.
+Reklamacje z tytułu rękojmi rozpoznawana są w terminie 14 dni od dnia doręczenia Sprzedawcy towaru oraz oświadczenia zawierającego żądania Kupującego. Powyższy termin nie dotyczy reklamacji, w związku z którą Klient chce odstąpić od umowy. O wyniku rozpatrzenia reklamacji Klient zostanie powiadomiony przez Sprzedawcę drogą mailową lub pisemnie, w zależności od sposobu złożenia reklamacji.
+Sprzedawca oferuje usługę On-Site, tj. usługę weryfikacji usterki/ uszkodzenia w Produkcie realizowaną poprzez wideokonferencję technika z Klientem. Usługa możliwa jest wyłącznie w oparciu o porozumienie Morele.net z Klientem oraz po uprzednim zaakceptowaniu wymaganych zgód przez Klienta. Zasady dotyczące usługo On-Site reguluje odrębny regulamin.
+<?php include 'elementy/footer.php' ?>
+</body>
+</html>

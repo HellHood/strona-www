@@ -10,15 +10,8 @@
 </head>
 <body>
  <?php
-include 'elementy/header.php' ;
+include 'elementy/gora.php' ;
  ?>
-    <br>
-    <br>
-    <br>
-    <br>
-<?php
-include 'elementy/kategorie.php' ;
-?>
     <br>
     <br>
     <br>

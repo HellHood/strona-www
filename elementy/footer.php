@@ -5,7 +5,7 @@
           <li>O nas</li>
         </ul>
         <ul>
-          <li>Regulamin</li>
+          <li><a href='regulamin.php'>Regulamin</a></li>
         </ul>
          <ul>
            <li>Polityka prywatności</li>
