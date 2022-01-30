@@ -11,7 +11,7 @@
            <li>Polityka prywatności</li>
          </ul>
          <ul>
-           <li>Kontakt</li>           
+           <li><a href='kontakt.php'>Kontakt</a></li>           
          </ul>
        </ul>
    </div>
