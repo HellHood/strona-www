@@ -1,10 +1,10 @@
 <?php
-include 'elementy/header.php' ;
+include 'header.php' ;
  ?>
     <br>
     <br>
     <br>
     <br>
 <?php
-include 'elementy/kategorie.php' ;
+include 'kategorie.php' ;
 ?>

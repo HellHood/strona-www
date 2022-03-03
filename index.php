@@ -27,7 +27,7 @@ include 'elementy/gora.php' ;
           <li>"Nazwa przedmiotu"</li>
           <br>
           <li><img src='img/iphone13.png'style="max-width:100%;height:auto;"></li>
-          <li><a href='items/Strona przedmiotu.html'>Zobacz więcej</a></li>
+          <li><a href='items/1.php'>Zobacz więcej</a></li>
           
         </div>
         <br>

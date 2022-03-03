@@ -5,6 +5,7 @@ if(isset($_POST['submit'])){
     $message = $_POST[message] ;
     $from = $_POST[_replyto] ;
     mail($to,$subject,$message,$from);
+    header('Location: kontakt.php ?a=sent');
     echo "Mail Sent. Thank you " .", we will contact you shortly.";
 }
 ?>

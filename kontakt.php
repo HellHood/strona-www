@@ -13,7 +13,7 @@
 include 'elementy/gora.php' ;
 ?>
     <div id='content'>
-    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="form.php" method="post">
+    <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="kontakt.php ?a=send" method="post">
       <fieldset id="fs-frm-inputs">
         <label for="full-name">Imie i nazwisko</label>
         <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
