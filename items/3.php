@@ -3,7 +3,7 @@ if (isset($_GET['id'])) {
   include '../baza.php';
     $id = preg_replace('#[^0-9]#i', '', $_GET['id']);
     $sql = mysqli_query($conn, "SELECT * FROM products WHERE id='$id' LIMIT 1");
-    $productCount = mysqli_num_rows($sql);
+    $productCount = mysql_num_rows($sql);
   if ($productCount > 0) {
           // get all the product details
           while($row = mysql_fetch_array($sql)){ 
