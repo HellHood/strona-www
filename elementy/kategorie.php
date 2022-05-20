@@ -78,7 +78,7 @@
         <li><a><a href="kategorie/promocje&nowosci.html">Promocje i nowości</a></a>
           <ul>
             <li><a href="">Wszystkie promocje</a></li>
-            <li><a href="">Współpraca</a></li>
+            <li><a href="../clicker/clicker.html">One Piece Clicker</a></li>
             <li><a href="">Współpraca</a></li>
             <li><a href="">Współpraca</a></li>
             <li><a href="">Współpraca</a></li>

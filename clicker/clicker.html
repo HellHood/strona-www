@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="clicker.css">
+</head>
+<body>
+    <p>Beri: <span id="score">0</span></p>
+    <p>Siła: <span id="clickingPower">1</span></p>
+    <img src="Beri.png" alt="Kliknij tu" width="25%" height="25%" id="Beri" onclick="addToScore(clickingPower)">
+    <div id="items">
+        <div class="item"><img src="straw hat.png"  onclick="buyStrawhat()">Słomiany Kapelusz <span id="strawhatCost">15</span> -- <span id="strawhats">0</span></img></div>
+        <div class="item"><img src="Merry.png"  onclick="buyMerry()">Merry <span id="merryCost">100</span> -- <span id="merrys">0</span></img></div>
+    
+
+
+
+
+    </div>
+
+    <script>
+        var score = 0;
+        var clickingPower = 1;
+
+        var strawhatCost = 15;
+        var strawhats = 0;
+        var merryCost = 100;
+        var merrys = 0;
+
+        function buyStrawhat() {
+            if (score >= strawhatCost) {
+                score = score - strawhatCost;
+                strawhats = strawhats + 1;
+                strawhatCost = Math.round(strawhatCost * 1.5);
+                clickingPower = clickingPower + 1;
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("strawhatCost").innerHTML = strawhatCost;
+                document.getElementById("strawhats").innerHTML = strawhats;
+                document.getElementById("clickingPower").innerHTML = clickingPower;
+            }
+        }
+
+        function buyMerry() {
+            if (score >= merryCost) {
+                score = score - merryCost;
+                merrys = merrys + 1;
+                merryCost = Math.round(merryCost * 1.75);
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("merryCost").innerHTML = merryCost;
+                document.getElementById("merrys").innerHTML = merrys;
+            }
+        }
+
+
+        function addToScore(amount) {
+            score = score + amount;
+            document.getElementById("score").innerHTML = score;
+        }
+
+        setInterval (function() {
+            score = score + merrys;
+            document.getElementById("score").innerHTML = score;
+        }, 1000);
+    </script>
+
+</body>
+</html>
