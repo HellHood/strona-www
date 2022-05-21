@@ -240,7 +240,7 @@ ol > li > ul > li > a{
 }
 
 ol > li > ul > li:hover{
-  background-color:rgba(68, 68, 68, 0.329);
+  background-color:rgb(173, 173, 173);
 }
 
 ol > li > ul > li:hover > a{
@@ -286,6 +286,13 @@ aside {
   display: flex;
   flex: auto;
   flex-wrap: nowrap;
+}
+
+#podkategorie {
+  text-align: center;
+  width: 250px;
+  left: 0px;
+  position: sticky;
 }
 
 h1 {

@@ -12,14 +12,19 @@
  <?php
 include '../elementy/gora.php' ;
  ?>
-    <br>
-    <br>
-    <br>
-    <h1>Popularne</h1>
-    <br>
-    <br>
-    <br>
     <div class="container">
+    <div id="podkategorie">
+      <ul>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+        <a href=""></a>
+      </ul>
+    </div>
     <div id='rzeczy_sprzedarz'>
       <ul id="lista_rzeczy">
         <div class="przedmiot">

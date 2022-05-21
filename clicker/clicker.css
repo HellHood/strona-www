@@ -1,3 +1,11 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000, -1px -1px 0 #000;
+    overflow-y: hidden;
+}
+
 #Beri {
     display: block;
     margin: auto;
@@ -5,16 +13,45 @@
 }
 
 p {
-    font-size: large;
+    font-size: 30px;
 }
 
 #items {
     display: inline-flex;
     flex-direction: row;
     align-items: center;
-    height: 150px;
+    justify-content: center;
+    height: 340px;
+    flex-wrap: wrap;
+    overflow: scroll;
+    overflow-x: hidden;
+    
 }
 
+
 .item {
-    width: 50%;
+    background: rgb(255,228,196);
+    background: radial-gradient(circle, rgba(255,228,196,1) 0%, rgba(255,228,196,1) 47%, rgba(252,206,149,1) 100%);
+    width: 45%;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    margin: 5px;
+    min-height: 160px;
+    max-height: 160px;
+    align-items: center;
+}
+
+#item > img {
+    max-height: 160px;
+}
+
+.info {
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    vertical-align: middle;
+    width: 80%;
+    line-height: 30px;
 }

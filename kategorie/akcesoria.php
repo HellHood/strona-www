@@ -7,19 +7,35 @@
     <meta name="viewport" content="width=>, initial-scale=1.0">
     <link rel="Stylesheet" type="text/css" href="../css/style.css">
     <title>Nyggaware</title>
+    <style>
+      #podkategorie > ul > div {
+        background-color: rgb(224, 224, 224);
+        text-align: center;
+        padding: 10px;
+      }
+      #podkategorie > ul > div:hover {
+        background-color: rgb(173, 173, 173);
+      }
+    </style>
 </head>
 <body>
  <?php
 include '../elementy/gora.php' ;
  ?>
-    <br>
-    <br>
-    <br>
-    <h1>Popularne</h1>
-    <br>
-    <br>
-    <br>
+ <br>
+ <br>
     <div class="container">
+    <div id="podkategorie">
+      <ul>
+        <div><a href="">Smartfony i telefony</a></div>
+        <div><a href="">Tablety</a></div>
+        <div><a href="">Smartwatche</a></div>
+        <div><a href="">Ładowarki i powerbanki</a></div>
+        <div><a href="">Karty pamięci</a></div>
+        <div><a href="">Ochrona na telefon</a></div>
+        <div><a href="">Akcesoria do tabletów</a></div>
+      </ul>
+    </div>
     <div id='rzeczy_sprzedarz'>
       <ul id="lista_rzeczy">
         <div class="przedmiot">

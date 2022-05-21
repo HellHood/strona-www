@@ -1,4 +1,4 @@
-<button onclick="topFunction()" id="myBtn" title="Go to top"><img src="img/arrow.png" width="50px" height="50px"><br>Do góry</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top"><img src="../img/arrow.png" width="50px" height="50px"><br>Do góry</button>
     <script>
       var mybutton = document.getElementById("myBtn");
       window.onscroll = function() {scrollFunction()};

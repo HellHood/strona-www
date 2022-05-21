@@ -1,6 +1,6 @@
 <div class='kategorie'>
       <ol>
-        <li><a><a href='kategorie/smartfony.html'>Smartfony i smartwatche</a></a>
+        <li><a><a href='../kategorie/smartfony.html'>Smartfony i smartwatche</a></a>
           <ul>
             <li><a href="">Smartfony i telefony</a></li>
             <li><a href="">Tablety</a></li>
@@ -11,7 +11,7 @@
             <li><a href="">Akcesoria do tabletów</a></li>
           </ul>
         </li>
-        <li><a><a href="kategorie/komputery&laptopy.html">Komputery i laptopy</a></a>
+        <li><a><a href="../kategorie/komputery&laptopy.html">Komputery i laptopy</a></a>
           <ul>
             <li><a href="">Laptopy/Notebooki/Ultrabooki</a></li>
             <li><a href="">Laptopy 2 w 1</a></li>
@@ -23,7 +23,7 @@
             <li><a href="">Akcesoria do laptopów</a></li>          
           </ul>
         </li>
-        <li><a><a href="kategorie/podzespoły.html">Podzespoły komputerowe</a></a>
+        <li><a><a href="../kategorie/podzespoły.html">Podzespoły komputerowe</a></a>
           <ul>
             <li><a href="">Karty graficzne</a></li>
             <li><a href="">Procesory</a></li>
@@ -38,7 +38,7 @@
             <li><a href="">Napędy optyczne</a></li>
           </ul>
         </li>
-        <li><a><a href="kategorie/peryferia.html">Urządzenia peryferyjne</a></a>
+        <li><a><a href="../kategorie/peryferia.html">Urządzenia peryferyjne</a></a>
           <ul>
             <li><a href="">Drukarki</a></li>
             <li><a href="">Monitory</a></li>
@@ -55,7 +55,7 @@
             <li><a href="">Skanery</a></li>
           </ul>
         </li>
-        <li><a><a href="kategorie/akcesoria.html">Akcesoria</a></a>
+        <li><a><a href="../kategorie/akcesoria.php">Akcesoria</a></a>
           <ul>
             <li><a href="">Kable i przejściówki</a></li>
             <li><a href="">Zasilanie</a></li>
@@ -75,7 +75,7 @@
             <li><a href="">Akcesora do tabletów</a></li>
           </ul>
         </li>
-        <li><a><a href="kategorie/promocje&nowosci.html">Promocje i nowości</a></a>
+        <li><a><a href="../kategorie/promocje&nowosci.html">Promocje i nowości</a></a>
           <ul>
             <li><a href="">Wszystkie promocje</a></li>
             <li><a href="../clicker/clicker.html">One Piece Clicker</a></li>

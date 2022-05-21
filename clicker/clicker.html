@@ -8,12 +8,80 @@
     <link rel="stylesheet" href="clicker.css">
 </head>
 <body>
-    <p>Beri: <span id="score">0</span></p>
-    <p>Siła: <span id="clickingPower">1</span></p>
-    <img src="Beri.png" alt="Kliknij tu" width="25%" height="25%" id="Beri" onclick="addToScore(clickingPower)">
+    <div>
+        <p>Berry: <span id="score">0</span></p>
+        <p>Siła: <span id="clickingPower">1</span></p>
+        <p id="titles">test</p>
+    </div>
+    <img src="Berry.png" alt="Kliknij tu" width="25%" height="25%" id="Beri" onclick="addToScore(clickingPower)">
     <div id="items">
-        <div class="item"><img src="straw hat.png"  onclick="buyStrawhat()">Słomiany Kapelusz <span id="strawhatCost">15</span> -- <span id="strawhats">0</span></img></div>
-        <div class="item"><img src="Merry.png"  onclick="buyMerry()">Merry <span id="merryCost">100</span> -- <span id="merrys">0</span></img></div>
+        <div class="item">
+            <img src="straw hat.png" width="25%" height="25%" onclick="buyStrawhat()">
+                <br>
+                <div class="info">
+                    Słomiany Kapelusz
+                    <br>
+                    Koszt: <span id="strawhatCost">15</span> Berry
+                    <br>
+                    Posiadasz: <span id="strawhats">0</span>
+                </div>
+            </img>
+        </div>
+        <div class="item">
+            <img src="Merry.png" width="25%" height="155px" onclick="buyMerry()">
+                <div class="info">
+                    Merry
+                    <br>
+                    Koszt: <span id="merryCost">100</span> Berry
+                    <br>
+                    Posiadasz: <span id="merrys">0</span>
+                </div>
+            </img>
+        </div>
+        <div class="item">
+            <img src="luffypre.png" width="25%" height="155px" onclick="buyLuffypre()">
+                <div class="info">
+                    Luffy Pre-Timeskip
+                    <br>
+                    Koszt: <span id="luffyCost">175</span> Berry
+                    <br>
+                    Posiadasz: <span id="luffyspre">0</span>
+                </div>
+            </img>
+        </div>
+        <div class="item">
+            <img src="Merry.png" width="25%" height="155px" onclick="buyMerry()">
+                <div class="info">
+                    Merry
+                    <br>
+                    Koszt: <span id="merryCost">100</span> Berry
+                    <br>
+                    Posiadasz: <span id="merrys">0</span>
+                </div>
+            </img>
+        </div>
+        <div class="item">
+            <img src="Merry.png" width="25%" height="155px" onclick="buyMerry()">
+                <div class="info">
+                    Merry
+                    <br>
+                    Koszt: <span id="merryCost">100</span> Berry
+                    <br>
+                    Posiadasz: <span id="merrys">0</span>
+                </div>
+            </img>
+        </div>
+        <div class="item">
+            <img src="Merry.png" width="25%" height="155px" onclick="buyMerry()">
+                <div class="info">
+                    Merry
+                    <br>
+                    Koszt: <span id="merryCost">100</span> Berry
+                    <br>
+                    Posiadasz: <span id="merrys">0</span>
+                </div>
+            </img>
+        </div>
     
 
 
@@ -27,14 +95,43 @@
 
         var strawhatCost = 15;
         var strawhats = 0;
+
         var merryCost = 100;
         var merrys = 0;
+        var merryPower = 0;
+
+        var luffypre = 0;
+        var luffypreCost = 175;
+        var luffyprePower = 0;
+
+        var zoropre = 0;
+        var zoropreCost = 230;
+        var zoroprePower = 0;
+
+        var namipre = 0;
+        var namipreCost = 350;
+        var namieprePower = 0
+
+        var usooppre = 0;
+        var usooppreCost = 500;
+        var usoopprePower = 0
+
+        var sanjipre = 0;
+        var sanjipreCost = 800;
+        var sanjieprePower = 0
 
         function buyStrawhat() {
             if (score >= strawhatCost) {
                 score = score - strawhatCost;
                 strawhats = strawhats + 1;
-                strawhatCost = Math.round(strawhatCost * 1.5);
+                if (strawhats <= 10){
+                    strawhatCost = Math.round(strawhatCost * 1.3)
+                }
+
+                if (strawhats > 10){
+                    strawhatCost = Math.round(strawhatCost * 1.5)
+                }
+
                 clickingPower = clickingPower + 1;
 
                 document.getElementById("score").innerHTML = score;
@@ -48,7 +145,8 @@
             if (score >= merryCost) {
                 score = score - merryCost;
                 merrys = merrys + 1;
-                merryCost = Math.round(merryCost * 1.75);
+                merryCost = Math.round(merryCost * 1.35);
+                merryPower = merryPower + 1;
 
                 document.getElementById("score").innerHTML = score;
                 document.getElementById("merryCost").innerHTML = merryCost;
@@ -56,14 +154,102 @@
             }
         }
 
+        function buyLuffypre() {
+            if (score >= luffypreCost) {
+                score = score - luffypreCost;
+                luffyspre = luffyspre + 1;
+                luffypreCost = Math.round(luffypreCost * 1.65);
+                luffyprePower = luffyprePower + 2;
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("luffypreCost").innerHTML = strawhatCost;
+                document.getElementById("luffyspre").innerHTML = strawhats;
+            }
+        }
+
+        function buyZoropre() {
+            if (score >= zoropreCost) {
+                score = score - zoropreCost;
+                zorospre = zorospre + 1;
+                zoropreCost = Math.round(zoropreCost * 1.80);
+                zoroprePower = zoroprePower + 5;
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("zororeCost").innerHTML = strawhatCost;
+                document.getElementById("zorospre").innerHTML = strawhats;
+            }
+        }
+
+        function buyNamipre() {
+            if (score >= namipreCost) {
+                score = score - namipreCost;
+                namispre = namispre + 1;
+                namipreCost = Math.round(namipreCost * 2);
+                namiprePower = namiprePower + 10;
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("namireCost").innerHTML = strawhatCost;
+                document.getElementById("namispre").innerHTML = strawhats;
+            }
+        }
+
+        function buyNamipre() {
+            if (score >= namipreCost) {
+                score = score - namipreCost;
+                namispre = namispre + 1;
+                namipreCost = Math.round(namipreCost * 2);
+                namiprePower = namiprePower + 10;
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("namireCost").innerHTML = strawhatCost;
+                document.getElementById("namispre").innerHTML = strawhats;
+            }
+        }
+
+        function buyNamipre() {
+            if (score >= namipreCost) {
+                score = score - namipreCost;
+                namispre = namispre + 1;
+                namipreCost = Math.round(namipreCost * 2);
+                namiprePower = namiprePower + 10;
+
+                document.getElementById("score").innerHTML = score;
+                document.getElementById("namireCost").innerHTML = strawhatCost;
+                document.getElementById("namispre").innerHTML = strawhats;
+            }
+        }
 
         function addToScore(amount) {
             score = score + amount;
             document.getElementById("score").innerHTML = score;
         }
+        
+        var titles = ["Noob", "Początkujący Pirat"]
+        
+        var a = "Noob";
+
+        function changeTitle() {
+            if (clickingPower <= 3) {
+                document.getElementById("titles").innerHTML = a;
+            }
+            if (clickingPower <= 50 && clickingPower > 10) {
+                document.getElementById("titles").innerHTML = "Początkujący Pirat";
+            }
+            if (clickingPower <= 200) {
+                document.getElementById("titles").innerHTML = "<p>Pirat</p>";
+            }
+            if (clickingPower <= 500) {
+                document.getElementById("titles").innerHTML = "<p>Dowódca Oddziału</p>";
+            }
+        }
 
         setInterval (function() {
-            score = score + merrys;
+            score = score + merryPower;
+            score = score + luffyprePower;
+            score = score + zoroprePower;
+            score = score + namieprePower;
+            score = score + usoopprePower;
+            score = score + sanjiprePower;
             document.getElementById("score").innerHTML = score;
         }, 1000);
     </script>
