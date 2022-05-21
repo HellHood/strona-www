@@ -118,7 +118,7 @@
 
         var sanjipre = 0;
         var sanjipreCost = 800;
-        var sanjieprePower = 0
+        var sanjiprePower = 0
 
         function buyStrawhat() {
             if (score >= strawhatCost) {
@@ -226,22 +226,22 @@
         
         var titles = ["Noob", "Początkujący Pirat"]
         
-        var a = "Noob";
 
-        function changeTitle() {
             if (clickingPower <= 3) {
-                document.getElementById("titles").innerHTML = a;
+                document.getElementById("titles").innerHTML = titles[0];
+                document.getElementById("clickingPower").innerHTML = clickingPower;
+            } else if (clickingPower <= 50 && clickingPower > 3) {
+                document.getElementById("titles").innerHTML = titles[1];
+                document.getElementById("clickingPower").innerHTML = clickingPower;
             }
-            if (clickingPower <= 50 && clickingPower > 10) {
-                document.getElementById("titles").innerHTML = "Początkujący Pirat";
-            }
-            if (clickingPower <= 200) {
+            if (clickingPower <= 200 && clickingPower > 50) {
                 document.getElementById("titles").innerHTML = "<p>Pirat</p>";
+                document.getElementById("clickingPower").innerHTML = clickingPower;
             }
-            if (clickingPower <= 500) {
+            if (clickingPower <= 500 && clickingPower > 200) {
                 document.getElementById("titles").innerHTML = "<p>Dowódca Oddziału</p>";
+                document.getElementById("clickingPower").innerHTML = clickingPower;
             }
-        }
 
         setInterval (function() {
             score = score + merryPower;
@@ -252,7 +252,8 @@
             score = score + sanjiprePower;
             document.getElementById("score").innerHTML = score;
         }, 1000);
+        
     </script>
-
+    
 </body>
 </html>
