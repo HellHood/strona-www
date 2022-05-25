@@ -175,10 +175,13 @@ ul {
   display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 	align-content: space-between;
-  width: auto;
+  width: 30%;
+  max-width: 150px;
+  height: 30%;
+  max-height: 300px;
 }
 
 ol{
@@ -410,4 +413,11 @@ header {
 #fs-frm fieldset.locale input[name="city"],
 #fs-frm fieldset.locale select[name="state"] {
   margin-right: 3%;
+}
+
+#lista-rzeczy > h1 {
+  font-size: xx-large;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
 }

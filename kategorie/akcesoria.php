@@ -1,3 +1,6 @@
+<?php 
+include '../tablice.php';
+?>
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -38,51 +41,26 @@ include '../elementy/gora.php' ;
     </div>
     <div id='rzeczy_sprzedarz'>
       <ul id="lista_rzeczy">
-        <div class="przedmiot">
+        <?=
+        "<div class='przedmiot'>
           
-          <li>"Nazwa przedmiotu"</li>
+          <li>'$items[20]'</li>
           <br>
-          <li><img src='../img/iphone13.png'style="max-width:100%;height:auto;"></li>
-          <li><a href='../items/1.php'>Zobacz więcej</a></li>
+          <li><img src='../img/$image[20]'style='max-width:100%;height:auto;'></li>
+          <li><a href='../items/$items[20]'>Zobacz więcej</a></li>
           
         </div>
         <br>
-        <div class="przedmiot">
+        <div class='przedmiot'>
           
-          <li>"Nazwa przedmiotu"</li>
+          <li>'$items[19]'</li>
           <br>
-          <li><img src='../img/iphone13.png' style="max-width:100%;height:auto;"></li>
-          <li>Zobacz więcej</li>
+          <li><img src='../img/$image[19]'style='max-width:100%;height:auto;'></li>
+          <li><a href='../items/$items[19]'>Zobacz więcej</a></li>
           
         </div>
-        <br>
-        <div class="przedmiot">
-        
-          <li>"Nazwa przedmiotu"</li>
-          <br>
-          <li><img src='../img/iphone13.png' style="max-width:100%;height:auto;"></li>
-          <li>Zobacz więcej</li>
-        
-        </div>
-        <br>
-        <div class="przedmiot">
-          
-          <li>"Nazwa przedmiotu"</li>
-          <br>
-          <li><img src='../img/iphone13.png'  width=' 200px' height=' 250px'></li>
-          <li>Zobacz więcej</li>
-          
-        </div>
-        <br>
-        <div class="przedmiot">
-          
-          <li>"Nazwa przedmiotu"</li>
-          <br>
-          <li><img src='../img/iphone13.png' style="max-width:100%;height:auto;"></li>
-          <li>Zobacz więcej</li>
-          
-        </div>
-        <br>
+        <br>"
+        ?>
       </ul>
     </div>
     <aside>

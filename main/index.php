@@ -1,3 +1,6 @@
+<?php 
+include '../tablice.php';
+?>
 <!DOCTYPE html>
 <html lang="pl">
 <head>

@@ -9,18 +9,22 @@
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: flex-start;
-	align-items: stretch;
-	align-content: stretch;
+	align-items: center;
+	align-content: center;
+
 }
 
 .obraz {
     float: left;
     margin-left: 100px;
+    max-width: 700px;
+    max-height: 700px;
 }
 
 .opis {
     float: left;
     margin-left: 15px;
+    margin-bottom: 30px;
 }
 
 
@@ -29,7 +33,14 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    align-content: center;
     width: 75%;
+    padding: 30px;
+    margin: auto;
+    max-width: 1000px;
+    max-height: 700px;
+    min-width: 400px;
+    min-height: 150px;
 }
 
 .dodaj-koszyk {
@@ -37,17 +48,22 @@
     height: 50px;
     background-color: rgb(28, 181, 241);
     bottom: 50px;
-    position: absolute;
     display: inline-block;
     left: 50%;
 }
 
 .podst_inf {
     height: 700px;
-    width: auto;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    
 }
 
 p {
-    position: relative;
+    
     
 }

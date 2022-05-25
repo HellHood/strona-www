@@ -7,7 +7,7 @@ include '../tablice.php';
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo "$items[]"; ?></title>
+    <title><?php echo "$items[14]"; ?></title>
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/item.css">
 </head>
@@ -16,12 +16,12 @@ include '../tablice.php';
 include '../elementy/gora.php' ;
 ?>
     <div class='item'>
-        <div class="obraz"><?= "<img src='../img/$image[]' alt='lg' width='80%' height='80%'>"?> </div>
+        <div class="obraz"><?= "<img src='../img/$image[13]' alt='lg' width='80%' height='80%'>"?> </div>
         <div class='podst_inf'>
-          <div class='opis'><?= $description[] ?></div>
+          <div class='opis'><?= $description[14] ?></div>
           <br>
             <div>
-                <p><h3><?= $price[] ?> zł</p></h3>
+                <p><h3><?= $price[14] ?> zł</p></h3>
                 <button class="dodaj-koszyk">Dodaj do koszyka</button>
             </div>
         </div>
