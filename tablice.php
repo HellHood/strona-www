@@ -33,6 +33,7 @@
         'ip11.png',
         'telewizor.png',
         'Sony.png',
+        'lg.png',
         'komputer.jpg',
         'ps5.jpg',
         'vr.jpg',

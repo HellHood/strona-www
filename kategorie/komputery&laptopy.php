@@ -33,7 +33,7 @@ include '../elementy/gora.php' ;
       <?=
         "<div class='przedmiot'>
           
-          <li>'$items[10]'</li>
+          <li>$items[10]</li>
           <br>
           <li><img src='../img/$image[10]'style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[10]'>Zobacz więcej</a></li>
@@ -42,7 +42,7 @@ include '../elementy/gora.php' ;
         <br>
         <div class='przedmiot'>
           
-          <li>'$items[2]'</li>
+          <li>$items[2]</li>
           <br>
           <li><img src='../img/$image[2]'style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[2]'>Zobacz więcej</a></li>
@@ -51,7 +51,7 @@ include '../elementy/gora.php' ;
         <br>
         <div class='przedmiot'>
           
-          <li>'$items[3]'</li>
+          <li>$items[3]</li>
           <br>
           <li><img src='../img/$image[3]'style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[3]'>Zobacz więcej</a></li>

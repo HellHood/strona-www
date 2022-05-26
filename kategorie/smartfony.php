@@ -36,7 +36,7 @@ include '../elementy/gora.php' ;
           
           <li>'$items[15]'</li>
           <br>
-          <li><img src='../img/$image[15]'></li>
+          <li><img src='../img/$image[15]' style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[15]'>Zobacz więcej</a></li>
           
         </div>
@@ -45,7 +45,7 @@ include '../elementy/gora.php' ;
           
           <li>'$items[14]'</li>
           <br>
-          <li><img src='../img/$image[14]'></li>
+          <li><img src='../img/$image[14]' style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[14]'>Zobacz więcej</a></li>
           
         </div>
@@ -54,7 +54,7 @@ include '../elementy/gora.php' ;
           
           <li>'$items[6]'</li>
           <br>
-          <li><img src='../img/$image[6]'></li>
+          <li><img src='../img/$image[6]' style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[6]'>Zobacz więcej</a></li>
           
         </div>
@@ -63,7 +63,7 @@ include '../elementy/gora.php' ;
           
           <li>'$items[5]'</li>
           <br>
-          <li><img src='../img/$image[5]'></li>
+          <li><img src='../img/$image[5]' style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[5]'>Zobacz więcej</a></li>
           
         </div>
@@ -72,7 +72,7 @@ include '../elementy/gora.php' ;
           
           <li>'$items[4]'</li>
           <br>
-          <li><img src='../img/$image[4]'></li>
+          <li><img src='../img/$image[4]' style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[4]'>Zobacz więcej</a></li>
           
         </div>
