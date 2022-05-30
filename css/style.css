@@ -148,7 +148,7 @@ footer {
   width: 100%;
   height: 70px;
   left: 0px;
-  position: absolute;
+  position: sticky;
 }
 
 #wszystko {

@@ -17,15 +17,21 @@ include '../elementy/gora.php' ;
  ?>
     <div class="container">
     <div id="podkategorie">
+
       <ul>
-        <a href=""></a>
-        <a href=""></a>
-        <a href=""></a>
-        <a href=""></a>
-        <a href=""></a>
-        <a href=""></a>
-        <a href=""></a>
-        <a href=""></a>
+        <a href="../items/empty.php">Drukarki</a>
+        <a href="../peryferia/monitory.php">Monitory</a>
+        <a href="../items/empty.php">Urządzenia sieciowe</a>
+        <a href="../peryferia/myszki.php">Myszki</a>
+        <a href="../items/empty.php">Klawiatury</a>
+        <a href="../items/empty.php">Słuchawki</a>
+        <a href="../items/empty.php">Głośniki</a>
+        <a href="../items/empty.php">Mikrofony</a>
+        <a href="../items/empty.php">Tablety graficzne</a>
+        <a href="../items/empty.php">Podkładki pod myszke</a>
+        <a href="../items/empty.php">Zasilacze UPS</a>
+        <a href="../items/empty.php">Kamery</a>
+        <a href="../items/empty.php">Skanery</a>
       </ul>
     </div>
     <div id='rzeczy_sprzedarz'>
@@ -33,7 +39,7 @@ include '../elementy/gora.php' ;
       <?=
         "<div class='przedmiot'>
           
-          <li>'$items[20]'</li>
+          '$items[20]'</li>
           <br>
           <li><img src='../img/$image[20]'style='max-width:100%;height:auto;'></li>
           <li><a href='../items/$items[20]'>Zobacz więcej</a></li>
@@ -42,19 +48,10 @@ include '../elementy/gora.php' ;
         <br>
         <div class='przedmiot'>
           
-          <li>'$items[9]'</li>
+          <li>'$items[19]'</li>
           <br>
-          <li><img src='../img/$image[9]'style='max-width:100%;height:auto;'></li>
-          <li><a href='../items/$items[9]'>Zobacz więcej</a></li>
-          
-        </div>
-        <br>
-        <div class='przedmiot'>
-          
-          <li>'$items[1]'</li>
-          <br>
-          <li><img src='../img/$image[1]'style='max-width:100%;height:auto;'></li>
-          <li><a href='../items/$items[1]'>Zobacz więcej</a></li>
+          <li><img src='../img/$image[19]'style='max-width:100%;height:auto;'></li>
+          <li><a href='../items/$items[19]'>Zobacz więcej</a></li>
           
         </div>
         <br>"
